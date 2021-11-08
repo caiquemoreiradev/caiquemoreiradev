@@ -1,6 +1,6 @@
 ### Olá, meu nome é Caique 👋
 
-## Eu sou um Desenvolvedor, Analista de Testes, Designer de Interfaces e um eterno aluno!!
+## Eu sou um Dev frontend que adora criar interfaces diferentes e experiências únicas além de apaixonado por aprender
 
 - 🔭 Atualmente focado na stack Node, React e React Native!
 - 🌱 Estudando desenvolvimento de jogos sempre que posso 🤣
