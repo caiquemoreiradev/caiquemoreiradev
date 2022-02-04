@@ -2,11 +2,10 @@
 
 ## Eu sou um Dev frontend que adora criar interfaces diferentes e experiências únicas além de apaixonado por aprender
 
-- 🔭 Atualmente focado na stack Node, React e React Native!
-- 🌱 Estudando desenvolvimento de jogos sempre que posso 🤣
-- 👯 Procurando sempre estar no meio de devs e apaixonados por tecnologia como eu
-- 🥅 Objetivos de 2020: Aprender o máximo possível e desenvolver diversas aplicações
-- ⚡ Fun fact: Aprendi a desenvolver jogos por não ter paciência perdendo nos jogos dos outros.
+- 🔭 Atualmente seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
+- 🌱 Estudando desenvolvimento web com o objetivo de contruir aplicações cada vez mais completas
+- 👯 Procurando sempre estar atuazlizado com o mundo da tecnologia
+- 🥅 Objetivos de 2022: Desenvolver meu inglês para me comunicar de melhor forma além de me tornar referência como desenvolvedor na minha equipe
 
 ### Connect with me:
 
