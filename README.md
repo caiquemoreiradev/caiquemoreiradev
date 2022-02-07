@@ -1,6 +1,6 @@
 ### Olá, meu nome é Caique 👋
 
-## Eu sou um Dev frontend que adora criar interfaces diferentes e experiências únicas além de apaixonado por aprender
+## Eu sou um Dev frontend estudando atualmente React
 
 - 🔭 Atualmente seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
 - 🌱 Estudando desenvolvimento web com o objetivo de contruir aplicações cada vez mais completas
