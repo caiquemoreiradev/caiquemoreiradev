@@ -1,8 +1,8 @@
 ### Olá, meu nome é Caique 👋
 
-## Eu sou um Dev frontend estudando atualmente React
+## Eu sou um Dev frontend que está:
 
-- 🔭 Atualmente seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
+- 🔭 Seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
 - 🌱 Estudando desenvolvimento web com o objetivo de contruir aplicações cada vez mais completas
 - 👯 Procurando sempre estar atuazlizado com o mundo da tecnologia
 - 🥅 Objetivos de 2022: Desenvolver meu inglês para me comunicar de melhor forma além de me tornar referência como desenvolvedor na minha equipe
