@@ -4,7 +4,7 @@
 
 - 🔭 Seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
 - 🌱 Estudando desenvolvimento web com o objetivo de contruir aplicações cada vez mais completas
-- 👯 Procurando sempre estar atuazlizado com o mundo da tecnologia
+- 👯 Procurando sempre estar atualizado com o mundo da tecnologia
 - 🥅 Objetivos de 2022: Desenvolver meu inglês para me comunicar de melhor forma além de me tornar referência como desenvolvedor na minha equipe
 
 ### Connect with me:
