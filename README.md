@@ -1,6 +1,6 @@
 ### Olá, meu nome é Caique 👋
 
-## Eu sou um dev frontend atualemnte focado em:
+## Eu sou um dev frontend atualmente focado em:
 
 - UX/UI Design afim de melhorar as aplicações que desenvolvo trazendo uma melhor experiência para os usuários, clientes e outros devs enovlvidos no projeto
 - Desenvolvimento frontend web com ReactJS, NextJS
