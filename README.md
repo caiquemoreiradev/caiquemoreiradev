@@ -1,11 +1,24 @@
 ### Olá, meu nome é Caique 👋
 
-## Eu sou um Dev frontend que está:
+## Eu sou um dev frontend atualemnte focado em:
 
-- 🔭 Seguindo a trilha de ReactJS do Ignite na plataforma da Rocketseat!
-- 🌱 Estudando desenvolvimento web com o objetivo de contruir aplicações cada vez mais completas
-- 👯 Procurando sempre estar atualizado com o mundo da tecnologia
-- 🥅 Objetivos de 2022: Desenvolver meu inglês para me comunicar de melhor forma além de me tornar referência como desenvolvedor na minha equipe
+- UX/UI Design afim de melhorar as aplicações que desenvolvo trazendo uma melhor experiência para os usuários, clientes e outros devs enovlvidos no projeto
+- Desenvolvimento frontend web com ReactJS, NextJS
+- Desenvolvimento frontend Mobile com React Native
+- Explorando serviços como Firebase, Sanity...
+- Estudando inglês para atingir a fluência
+
+## Algumas das minhas certificações:
+
+- Especialização em User Interface Design pela Universidade de Minessota/Coursera
+- Especialização em User Experience Research and Design pela Universidade do Michigan/Coursera
+- Especialização em UI/UX Design pelo Instituto de Artes da California/Coursera
+- Certificado profissional de UX Design pelo Google/Coursera
+- Especialização em React Native pela Meta/Coursera
+- Especialização em Desenvolvimento Frontend pela Meta/Coursera
+- Certificação React no Ignite da Rocketseat
+- Certificação React Native Ignite da Rocketseat
+- Certificação em NodeJS Ignite da Rocketseat
 
 ### Connect with me:
 
