@@ -2,7 +2,7 @@
 
 ## Eu sou um dev frontend atualmente focado em:
 
-- UX/UI Design afim de melhorar as aplicações que desenvolvo trazendo uma melhor experiência para os usuários, clientes e outros devs enovlvidos no projeto
+- UX/UI Design afim de melhorar as aplicações que desenvolvo trazendo uma melhor experiência para os usuários, clientes e outros devs envolvidos no projeto
 - Desenvolvimento frontend web com ReactJS, NextJS
 - Desenvolvimento frontend Mobile com React Native
 - Explorando serviços como Firebase, Sanity...
